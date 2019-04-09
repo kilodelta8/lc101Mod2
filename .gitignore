@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+#keep the virtual env "v" out of the loop
+v/
