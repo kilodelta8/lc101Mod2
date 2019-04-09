@@ -1,0 +1,6 @@
+4/8/19
+Hey guys.  Thank you for letting me finish the program remotely.
+I am not sure how you wish to track my progress outside of being present in class
+and assignments.  I figured if I made a repo you could spot check here and there
+would be ideal.  I will probably follow LC suit and make each class day a seperate
+branch (i.e. Today would be <branch class2.5> ).
