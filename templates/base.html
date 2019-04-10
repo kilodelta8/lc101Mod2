@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FlickList</title>
+        <style type="text/css">
+            .error {
+                color: red;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>
+            <a href="/">FlickList</a>
+        </h1>
+
+        {% block content %}
+        {% endblock %}
+        <hr />
+        <ul>
+            {% for title in titles %}
+                <li>{{title}}</li>
+            {% endfor %}
+        </ul>
+
+    </body>
+</html>
