@@ -4,6 +4,12 @@ Nonetheless, I added further functionality to the Flicklist4 studio.  It now lis
 movies the user adds on the "home" screen, as well as dynamically adds them to the dropdown
 for future removal.  The downfall is it saves as a list until the script stops.  I reckon 
 the future will hold SQL instructions.
+    master
+       |
+       |\__class2.5
+       |\__studio4
+       | 
+    master
 
 
 
