@@ -1,9 +1,21 @@
+...
+4/10/19
+I realize that I should just call these branches by the studio name rather than classes.
+Nonetheless, I added further functionality to the Flicklist4 studio.  It now lists the
+movies the user adds on the "home" screen, as well as dynamically adds them to the dropdown
+for future removal.  The downfall is it saves as a list until the script stops.  I reckon 
+the future will hold SQL instructions.
+
+
+
+
 4/8/19
 Completed walkthrough/studio for class 2.5 on git branch "class2.5".
 Added virtual env folder (on my end) to .gitignore.
     master
        |
        |\__class2.5
+       |\__studio4
        | 
     master
     
