@@ -125,5 +125,24 @@ select * from directors order by country ASC;
             +-------------+-------------+-----------+----------------+
             */
 
-/*List the country of origin of the director of Amelie*/
+/*List the country of origin of the director of Amelie NON-JOIN*/
+select country from directors where director_id = 5;
+            /*
+            +---------+
+            | country |
+            +---------+
+            | France  |
+            +---------+
+            */
 
+/*List the country of origin of the director of Amelie*/
+select country from directors join movies on movies.director_id = directors.director_id where last='Jeunet';
+            /*
+            +---------+
+            | country |
+            +---------+
+            | France  |
+            +---------+
+            */
+
+/*List all the movies in the database along with each movie's director, ordered by the director's last name in ascending order*/
