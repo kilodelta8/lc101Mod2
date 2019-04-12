@@ -146,3 +146,16 @@ select country from directors join movies on movies.director_id = directors.dire
             */
 
 /*List all the movies in the database along with each movie's director, ordered by the director's last name in ascending order*/
+select movies.title, first, last from directors join movies using (director_id) order by last asc;
+            /*
+            +--------------------------------+-------------+-----------+
+            | title                          | first       | last      |
+            +--------------------------------+-------------+-----------+
+            | The Silence of the Lambs       | Jonathan    | Demme     |
+            | One Flew Over the Cuckoos Nest | Milos       | Forman    |
+            | Amelie                         | Jean-Pierre | Jeunet    |
+            | The Shining                    | Stanley     | Kubrick   |
+            | Full Metal Jacket              | Stanley     | Kubrick   |
+            | SLC Punk!                      | James       | Merendino |
+            +--------------------------------+-------------+-----------+
+            */
