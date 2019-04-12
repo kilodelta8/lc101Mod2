@@ -1,4 +1,17 @@
-...
+4/11/19
+I started class/studio 2.7 ahead as I was excited to start SQL.  I have been meaning to get
+a headsup on SQL for quite some time now.  I forgot to make the branch studioN, rather it says
+class2.7.
+    master
+       |
+       |\__class2.5
+       |\__studio4
+       |\__class2.7
+       | 
+    master
+
+
+
 4/10/19
 I realize that I should just call these branches by the studio name rather than classes.
 Nonetheless, I added further functionality to the Flicklist4 studio.  It now lists the
