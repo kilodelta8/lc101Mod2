@@ -1,7 +1,7 @@
 4/11/19
 I started class/studio 2.7 ahead as I was excited to start SQL.  I have been meaning to get
 a headsup on SQL for quite some time now.  I forgot to make the branch studioN, rather it says
-class2.7.
+class2.7.  Let me just say that last exercise was rough.  Those sql join clauses are intense.
     master
        |
        |\__class2.5
