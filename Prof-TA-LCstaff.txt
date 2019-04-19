@@ -1,18 +1,41 @@
+<<<<<<< HEAD
 4/10/19
 I realize that I should just call these branches by the studio name rather than classes.
 Nonetheless, I added further functionality to the Flicklist4 studio.  It now lists the
 movies the user adds on the "home" screen, as well as dynamically adds them to the dropdown
 for future removal.  The downfall is it saves as a list until the script stops.  I reckon 
 the future will hold SQL instructions.
+=======
+4/11/19
+I started class/studio 2.7 ahead as I was excited to start SQL.  I have been meaning to get
+a headsup on SQL for quite some time now.  I forgot to make the branch studioN, rather it says
+class2.7.  Let me just say that last exercise was rough.  Those sql join clauses are intense.
+>>>>>>> 3184dbccb4ce8924448e135009565f9459462f01
     master
        |
        |\__class2.5
        |\__studio4
+<<<<<<< HEAD
+=======
+       |\__class2.7
+>>>>>>> 3184dbccb4ce8924448e135009565f9459462f01
        | 
     master
 
 
 
+<<<<<<< HEAD
+=======
+4/10/19
+I realize that I should just call these branches by the studio name rather than classes.
+Nonetheless, I added further functionality to the Flicklist4 studio.  It now lists the
+movies the user adds on the "home" screen, as well as dynamically adds them to the dropdown
+for future removal.  The downfall is it saves as a list until the script stops.  I reckon 
+the future will hold SQL instructions.
+
+
+
+>>>>>>> 3184dbccb4ce8924448e135009565f9459462f01
 
 4/8/19
 Completed walkthrough/studio for class 2.5 on git branch "class2.5".
@@ -20,6 +43,7 @@ Added virtual env folder (on my end) to .gitignore.
     master
        |
        |\__class2.5
+       |\__studio4
        | 
     master
     
