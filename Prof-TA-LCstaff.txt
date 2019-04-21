@@ -1,3 +1,27 @@
+4/21/19
+Happy Easter everyone.  Hope those who see this have a splendid day.  The studio for class2.9
+was fun.  There was a bump in the road with SQL, but it's clicked and I am enjoying the functionality
+of being able to utilize a database.  This opens many new doors for new project.  Im pumped!
+What is committed for class2.9 is screenshots fo the website and db working.  I can add all
+the code and files if you wish.  I just haven't figured out an easy way to move files from one 
+repo to another, then close the folder and move into a different.  It would be a labor of love,
+no doubt.  Anyways, hope this has proven a valuable method of proving my keeping up in class
+as a remote loner.  It's pretty nice that I still have classmates reaching out for help, and being
+able to do so remotely.
+    master
+       |
+       |\__class2.5
+       |\__class2.6
+       |\__class2.7
+       |\__class2.8
+       |\__class2.9
+       |\->master
+       |\__studio4
+       | 
+    master
+
+
+
 4/19/19
 Not going to lie here, that SQL business is intense.  I can sling python, c++, etc all day long
 but SQL is killing me.  Woof......  Exciting nonetheless.
