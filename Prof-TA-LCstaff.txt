@@ -1,3 +1,32 @@
+4/27/2019
+Class 2.11 was simply a lecture, submissiion and start of a project.  It's amazing to see how far
+we have journeyed from the very first class where everyone was pumped, excited and nervous.
+We have seen some face fade into the wind and some faces get dropped.  I wish I was able to
+stay in Memphis and continue the trek alongside my team.  
+Speaking of, I never did receive one of those team stickers......
+Anyways, I am feeling rather anxious to start Module 3.  I THINK i wish to pursue the C# tract.
+I think it will be good.  I am also feeling rather excited for the final project in Module 2.
+I basically had the entire project completed in "build-a-blog", then I read the directions and
+had to remove functionality to meet assignment requirements.
+I may start from scratch to further cement concepts.  Anyways, thanks LC.
+
+    master
+       |
+       |\__class2.5
+       |\__class2.6
+       |\__class2.7
+       |\__class2.8
+       |\__class2.9
+       |\__flicklist7
+       |\__class2.11
+       |\->master
+       |\__studio4
+       | 
+    master
+
+
+
+
 4/24/19
 Hey everyone.  This installment (branch) was labeled "flicklist7".  I apologize for the 
 naming conventions for the branches following my progress.
