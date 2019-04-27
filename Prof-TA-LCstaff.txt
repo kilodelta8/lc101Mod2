@@ -1,6 +1,6 @@
 4/24/19
-Hey everyone.  This installment (branch) was labeled "flicklist7".  I apologize for the 
-naming conventions for the branches following my progress.
+Hey everyone.  This installment (branch) was labeled "flicklist7" (class 2.10).  I apologize 
+for the naming conventions for the branches following my progress.
 Flicklist 7 is really cementing some of the mroe exciting concepts, and I am thoroughly
 enjoying it.
 I gotta say thanks again for letting me work remotely.
